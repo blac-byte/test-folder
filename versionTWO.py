@@ -1,4 +1,4 @@
-def two():
+def Two():
     print("two")
 
-two()
+Two()

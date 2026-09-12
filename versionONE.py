@@ -1,5 +1,5 @@
-def One():
+def one():
     print("Hi there")
 
 
-One()
+one()
